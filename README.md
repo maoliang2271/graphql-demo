@@ -17,26 +17,6 @@ GraphQL一种用为你 API 而生的查询语言，2018已经到来，PWA还没�
 * API 演进无需划分版本
 
 
-本篇文章中将搭配koa实现一个GraphQL查询的例子，逐步从简单kao服务到mongodb的数据插入查询再到GraphQL的使用，
-让大家快速看到：
-
-* 搭建koa搭建一个后台项目
-* 后台路由简单处理方式
-* 利用mongoose简单操作mongodb
-* 掌握GraphQL的入门姿势
-
-项目如下图所示
-
-1、搭建GraphQL工具查询界面。
-
-![](https://user-gold-cdn.xitu.io/2018/1/2/160b58e712e0db1a?w=1173&h=855&f=gif&s=1376761)
-
-2、前端用jq发送ajax的使用方式
-
-
-![](https://user-gold-cdn.xitu.io/2018/1/2/160b5927554c21cc?w=962&h=716&f=gif&s=2278918)
-
-
 ## install 
 
 ````
